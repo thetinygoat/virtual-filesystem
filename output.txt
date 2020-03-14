@@ -1,0 +1,37 @@
+Documents -> Sem-5 / Payment Docs / Programming Books / Coursera Aid Application / College Books / Resumes / 
+Sem-5 -> Cs anand kumar / ogata-control.pdf / William L. Brogan - Modern Control Theory (3rd Edition)  -Prentice Hall (1990).pdf / reg-form-5.pdf / Farid Golnaraghi, Benjamin C. Kuo - Automatic Control Systems-Wiley (2009).pdf / question papers.pdf / admit-5-sem-sachin.pdf / Control Systems 2.pdf / kirk.pdf / 
+Cs anand kumar -> Nyquist.pdf / 2nd lesson.pdf / 1st lesson.pdf / compensators&state space analysis.pdf / Root locus.pdf / Frequency analysis.pdf / R-H method.pdf / 
+Nyquist.pdf -> 
+2nd lesson.pdf -> 
+1st lesson.pdf -> 
+compensators&state space analysis.pdf -> 
+Root locus.pdf -> 
+Frequency analysis.pdf -> 
+R-H method.pdf -> 
+ogata-control.pdf -> 
+William L. Brogan - Modern Control Theory (3rd Edition)  -Prentice Hall (1990).pdf -> 
+reg-form-5.pdf -> 
+Farid Golnaraghi, Benjamin C. Kuo - Automatic Control Systems-Wiley (2009).pdf -> 
+question papers.pdf -> 
+admit-5-sem-sachin.pdf -> 
+Control Systems 2.pdf -> 
+kirk.pdf -> 
+Payment Docs -> vrinda-fee-50k2.pdf / vrinda-fee-50k.pdf / 
+vrinda-fee-50k2.pdf -> 
+vrinda-fee-50k.pdf -> 
+Programming Books -> jurafsky.pdf / artificial-intelligence-by-rich-and-knight.pdf / Ruby on Rails Tutorial Learn Web Development with Rails, 4th Edition by Michael Hartl (z-lib.org).epub / ISLR.pdf / ESLII.pdf / Head first design patterns.pdf / Cracking the Coding Interview.pdf / The_road_to_graphql.pdf / Algorithm Design and Applications.pdf / e_balagurusamy_oops.pdf / 
+jurafsky.pdf -> 
+artificial-intelligence-by-rich-and-knight.pdf -> 
+Ruby on Rails Tutorial Learn Web Development with Rails, 4th Edition by Michael Hartl (z-lib.org).epub -> 
+ISLR.pdf -> 
+ESLII.pdf -> 
+Head first design patterns.pdf -> 
+Cracking the Coding Interview.pdf -> 
+The_road_to_graphql.pdf -> 
+Algorithm Design and Applications.pdf -> 
+e_balagurusamy_oops.pdf -> 
+Coursera Aid Application -> 
+College Books -> Human Resource Management.pdf / 
+Human Resource Management.pdf -> 
+Resumes -> Sachin_Saini___Resume.pdf / 
+Sachin_Saini___Resume.pdf -> 
